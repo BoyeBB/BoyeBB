@@ -30,7 +30,9 @@ I'm an AI & Data Analytics student interested in building practical projects usi
 
 ## Goals
 
-I'm building my skills and portfolio through hands-on AI and data projects while exploring practical applications of machine learning and analytics.
+## Goals
+
+I'm building my skills in AI, data analytics, machine learning, and computer vision while developing projects that strengthen my technical experience.
 
 <!--
 **BoyeBB/BoyeBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
